@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.dropdown-container {
+  margin: 20px 0;
+}
+
+.dropdown-label {
+  font-size: 25px;
+  margin-right: 10px;
+}
+
+.dropdown-select {
+  font-size: 25px;
+  padding: 5px 10px;
+}
+
+.chords {
+  margin-top: 20px;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+  font-size: larger;
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
